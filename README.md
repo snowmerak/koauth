@@ -1,1 +1,1 @@
-# koauth
+# github.com/snowmerak/koauth
